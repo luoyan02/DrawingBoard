@@ -6,4 +6,4 @@ Visual Studio: version 2022
 Qt: version 6.4.3
 # Showcase
 ## version 1.0
-<img src="图片链接" alt="qt_test_result" width="300" height="200">
+<img src="images/qt_test.png" alt="qt_test_result" width="300" height="200">

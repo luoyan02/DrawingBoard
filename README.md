@@ -24,3 +24,6 @@ Showcase a simple window where users can freely draw using a fixed color and pen
 Based on CG_Painter, a color palette control has been added. There are three sliders in the toolbox representing the values of red (R), green (G), and blue (B) colors, ranging from 0 to 255. You can adjust the sliders to configure the color. After that, you can click the button below the sliders labeled 'rgb', and the background color of the button will change to the color you have selected. You can then use this color for drawing.
 
 <img src="images/v2.png" alt="drawingboard_v2.0" width="350" height="250">
+
+## version 3.0
+In addition, a separate canvas has been created specifically for freehand drawing. On this canvas, you can freely adjust the brush size and color for drawing. This canvas operates and records independently from the one showcased in v2.

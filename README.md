@@ -4,7 +4,7 @@ This project implements **a simple drawing board**, which is an improvement upon
 Visual Studio: version 2022
 
 Qt: version 6.4.3
-# reference
+# Reference
 https://github.com/NJU-TJL/CG_Painter.git
 
 Docs/Qt-6.4.3/qtdoc/classes.html (In the installation directory)
@@ -36,4 +36,18 @@ In addition, a separate canvas has been created specifically for freehand drawin
 <div align="center">
   <img src="images/v3_1.png" alt="drawingboard_v3.0_random" width="350" height="250">
   <img src="images/v3_2.png" alt="drawingboard_v3.0_standard" width="350" height="250">
+</div>
+
+## vesion 4.0
+New features:
+
+1. Clear canvas
+2. Save the current canvas as a bmp file in the current directory.
+<div align="center">
+  <img src="images/qingchu1.png" alt="drawingboard_v4.0_random" width="350" height="250">
+  <img src="images/qingchu2.png" alt="drawingboard_v4.0_standard" width="350" height="250">
+</div>
+<div align="center">
+  <img src="images/save1.png" alt="drawingboard_v4.0_random" width="350" height="250">
+  <img src="images/save2.png" alt="drawingboard_v4.0_standard" width="350" height="250">
 </div>
